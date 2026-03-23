@@ -3,12 +3,7 @@
 Project Laravel untuk tugas PWF1.
 
 ## Deskripsi
-Project ini dibuat menggunakan framework Laravel versi 10 untuk pengembangan aplikasi web.
-
-## Fitur
-- Menggunakan Laravel Framework
-- Struktur MVC
-- Siap dikembangkan lebih lanjut
+Project ini dibuat menggunakan framework Larave
 
 ## Author
 Maulina Kurnia Pilpa
