@@ -6,4 +6,4 @@ Project Laravel untuk tugas PWF1.
 Project ini dibuat menggunakan framework Larave
 
 ## Author
-Maulina Kurnia Pilpa
+Maulina Kurnia Pilpa-312024015
